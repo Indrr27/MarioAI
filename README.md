@@ -19,8 +19,8 @@ This project aims to train an AI agent to play Super Mario Bros using reinforcem
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Indrr27/mario-ai.git
-cd mario-ai
+git clone https://github.com/Indrr27/MarioAI.git
+cd MarioAI
 ```
 
 2. Install the required packages:
