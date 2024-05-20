@@ -48,4 +48,17 @@ This will initiate training based on the configurations set within `main.py`, in
 ## Evaluating the Model
 
 After training, the model's performance can be evaluated by running the latter part of `main.py`, where the trained model is loaded and used to play the game. This section visualizes the agent's gameplay in real-time.
+# Mario AI Machine Learning Progress
+
+## Mario at 10,000 Steps
+[![Mario at 10,000 Steps](https://img.youtube.com/vi/NJACjJI1P9A/0.jpg)](https://www.youtube.com/watch?v=NJACjJI1P9A)
+Watch Mario's progress at 10,000 steps.
+
+## Mario at 500,000 Steps
+[![Mario at 500,000 Steps](https://img.youtube.com/vi/JynbLB7jYjE/0.jpg)](https://www.youtube.com/watch?v=JynbLB7jYjE)
+Watch Mario's progress at 500,000 steps.
+
+## Mario at 1,000,000 Steps
+[![Mario at 1,000,000 Steps](https://img.youtube.com/vi/B4arRy4jwDs/0.jpg)](https://www.youtube.com/watch?v=B4arRy4jwDs)
+Watch Mario's progress at 1,000,000 steps.
 
